@@ -1,4 +1,4 @@
-# CriteriaQuery no JPA: mais controle sobre as queries sem precisar recorrer ao SQL nativo
+# Java : CriteriaQuery no JPA: mais controle sobre as queries sem precisar recorrer ao SQL nativo
 
 O Spring Data JPA resolve muito bem a maioria das consultas de uma aplicação.
 
